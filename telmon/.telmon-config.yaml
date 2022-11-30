@@ -1,0 +1,12 @@
+---
+addr: localhost
+port: 5555
+interval: 10000
+notify:
+  email:
+    sender: jackkweyunga@gmail.com
+    password: eyioveuhnjjdeqdu
+    receivers:
+      - "jackkweyunga@gmail.com"
+restore:
+  cmd: go run .\server\telnet-server.go

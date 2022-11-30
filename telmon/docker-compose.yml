@@ -1,0 +1,11 @@
+version: '3.9'
+
+services:
+
+  telmon:
+    build: ../
+    volumes:
+      - ./telmon.log:/telmon.log
+      - ./.telmon-config.yaml:/.telmon-config.yaml
+    restart: unless-stopped
+    network_mode: "host"
