@@ -2,10 +2,19 @@ version: '3'
 
 services:
 
-  telmon:
+  t_monitor:
     image: "ghcr.io/jackkweyunga/telmon:web"
+    command: monitor
     volumes:
       - ./telmon.log:/telmon.log
       - ./.telmon-config.yaml:/.telmon-config.yaml
-    restart: unless-stopped
+    restart: on-failure
     network_mode: "host"
+
+  t_logs:
+    image: "ghcr.io/jackkweyunga/telmon:web"
+    command: serve --port 8080
+    restart: on-failure
+    network_mode: "host"
+
+

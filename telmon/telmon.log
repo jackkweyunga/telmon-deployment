@@ -1,0 +1,424 @@
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:39:07Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:39:07Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:39:07Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:39:07Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:39:07Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:39:07Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:39:08Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:39:08Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:39:08Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:39:08Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:39:08Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:39:08Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:39:08Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:39:08Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:39:08Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:39:08Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:39:08Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:39:08Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:39:09Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:39:09Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:39:09Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:39:09Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:39:09Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:39:09Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:39:10Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:39:10Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:39:10Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:39:10Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:39:10Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:39:10Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:39:12Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:39:12Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:39:12Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:39:12Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:39:12Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:39:12Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:39:16Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:39:16Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:39:16Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:39:16Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:39:16Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:39:16Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:39:23Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:39:23Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:39:23Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:39:23Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:39:23Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:39:23Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:39:36Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:39:36Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:39:36Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:39:36Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:39:36Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:39:36Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:40:02Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:40:02Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:40:02Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:40:02Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:40:02Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:40:02Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:40:54Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:40:54Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:40:54Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:40:54Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:40:54Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:40:54Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:41:54Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:41:54Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:41:54Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:41:54Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:41:54Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:41:54Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:42:55Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:42:55Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:42:55Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:42:55Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:42:55Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:42:55Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:43:40Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:43:40Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:43:40Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:43:40Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:43:40Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:43:40Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:43:41Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:43:41Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:43:41Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:43:41Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:43:41Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:43:41Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:43:42Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:43:42Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:43:42Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:43:42Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:43:42Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:43:42Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:43:43Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:43:43Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:43:43Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:43:43Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:43:43Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:43:43Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:43:44Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:43:44Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:43:44Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:43:44Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:43:44Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:43:44Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:43:46Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:43:46Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:43:46Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:43:46Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:43:46Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:43:46Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:43:50Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:43:50Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:43:50Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:43:50Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:43:50Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:43:50Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:43:57Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:43:57Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:43:57Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:43:57Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:43:57Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:43:57Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:44:10Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:44:10Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:44:10Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:44:10Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:44:10Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:44:10Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:44:36Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:44:36Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:44:36Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:44:36Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:44:36Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:44:36Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:45:28Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:45:28Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:45:28Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:45:28Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:45:28Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:45:28Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:46:28Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:46:28Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:46:28Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:46:28Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:46:28Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:46:28Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:47:29Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:47:29Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:47:29Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:47:29Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:47:29Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:47:29Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:48:29Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:48:29Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:48:29Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:48:29Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:48:29Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:48:29Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:49:30Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:49:30Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:49:30Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:49:30Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:49:30Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:49:30Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:50:30Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:50:30Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:50:30Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:50:30Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:50:30Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:50:30Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:11Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:11Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:11Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:11Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:11Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:11Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:11Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:11Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:11Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:11Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:11Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:11Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:12Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:12Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:12Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:12Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:12Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:12Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:13Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:13Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:13Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:13Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:13Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:13Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:15Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:15Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:15Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:15Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:15Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:15Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:17Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:17Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:17Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:17Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:17Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:17Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:20Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:20Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:20Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:20Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:20Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:20Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:27Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:27Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:27Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:27Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:27Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:27Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:30Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:30Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:30Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:30Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:30Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:30Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:51:40Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:51:40Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:51:40Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:51:40Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:51:40Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:51:40Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:52:07Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:52:07Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:52:07Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:52:07Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:52:07Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:52:07Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:52:31Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:52:31Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:52:31Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:52:31Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:52:31Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:52:31Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:52:58Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:52:58Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:52:58Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:52:58Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:52:58Z"}
+{"level":"fatal","msg":"[TelnetClient] No notification configurations found.","time":"2022-11-30T16:52:58Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:53:31Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:53:31Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:53:32Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:53:32Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:53:32Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:53:32Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:53:32Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:53:42Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:53:42Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:53:42Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:53:42Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:53:42Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:53:42Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T16:54:07Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:54:07Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:54:07Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:54:07Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:54:07Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:54:07Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:54:07Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:54:17Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:54:17Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:54:17Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:54:17Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:54:17Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:54:17Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:54:27Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:54:27Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:54:27Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:54:27Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:54:27Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:54:27Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:54:37Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:54:37Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:54:37Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:54:37Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:54:37Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:54:37Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:54:47Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:54:47Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:54:47Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:54:47Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:54:47Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:54:47Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:54:57Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:54:57Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:54:57Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:54:57Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:54:57Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:54:57Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:55:07Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:55:07Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:55:07Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:55:07Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:55:07Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:55:07Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:55:17Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:55:17Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:55:17Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:55:17Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:55:17Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:55:17Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:55:27Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:55:27Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:55:27Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:55:27Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:55:27Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:55:27Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:55:37Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:55:37Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:55:37Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:55:37Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:55:37Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:55:37Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:55:47Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:55:47Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:55:47Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:55:47Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:55:47Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:55:47Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T16:55:57Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T16:55:57Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T16:55:57Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T16:55:57Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T16:55:57Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T16:55:57Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T17:06:56Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:06:56Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:06:56Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:06:56Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:06:56Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:06:56Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:06:56Z"}
+{"level":"info","msg":"[Telmon] Monitoring Service started successfully ...","time":"2022-11-30T17:09:18Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:09:18Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:09:18Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:09:18Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:09:18Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:09:18Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:09:18Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:09:28Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:09:28Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:09:28Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:09:28Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:09:28Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:09:28Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:09:38Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:09:38Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:09:38Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:09:38Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:09:38Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:09:38Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:09:48Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:09:48Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:09:48Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:09:48Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:09:48Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:09:48Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:09:58Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:09:58Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:09:58Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:09:58Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:09:58Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:09:58Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:10:08Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:10:08Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:10:08Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:10:08Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:10:08Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:10:08Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:10:18Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:10:18Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:10:18Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:10:18Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:10:18Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:10:18Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:10:28Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:10:28Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:10:28Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:10:28Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:10:28Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:10:28Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:10:38Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:10:38Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:10:38Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:10:38Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:10:38Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:10:38Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:10:48Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:10:48Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:10:48Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:10:48Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:10:48Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:10:48Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:10:58Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:10:58Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:10:58Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:10:58Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:10:58Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:10:58Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:11:08Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:11:08Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:11:08Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:11:08Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:11:08Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:11:08Z"}
+{"level":"info","msg":"[Telmon] Trying to connect to telnet server.","time":"2022-11-30T17:11:18Z"}
+{"level":"info","msg":"[Telmon] Encountered errors while connecting: ","time":"2022-11-30T17:11:18Z"}
+{"kind":"failed","level":"error","msg":"[Telmon] %v \ndial tcp [::1]:23: connect: connection refused","time":"2022-11-30T17:11:18Z"}
+{"level":"info","msg":"[Telmon] Reporting this error","time":"2022-11-30T17:11:18Z"}
+{"level":"info","msg":"[Telmon] Running restoration command: echo 'start please' \n","time":"2022-11-30T17:11:18Z"}
+{"level":"info","msg":"[Telmon] Restoration failed, command returned error: exec: \"bash\": executable file not found in $PATH","time":"2022-11-30T17:11:18Z"}

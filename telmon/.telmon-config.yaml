@@ -4,9 +4,10 @@ port: 23
 interval: 10000
 notify:
   email:
-    sender: ""
-    password: ""
+    sender: "sender_email"
+    password: "sender_email_password"
     receivers:
-      - ""
+      - "receivers_email_1"
+      - "receivers_email_2"
 restore:
-  cmd:
+  cmd: echo 'start please'
